@@ -1,6 +1,7 @@
 apiVersion: v1
 data:
-  VITE_API_PATH: http://10.109.54.158:32597
+  VITE_API_PATH: http://192.168.49.2:30662
+  #http://backend:5000
 kind: ConfigMap
 metadata:
   labels:
